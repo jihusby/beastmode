@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  StatisticsViewController.swift
 //  BeastMode
 //
 //  Created by Jan Inge Husby on 24.05.2016.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class StatisticsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
